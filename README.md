@@ -6,7 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[TimeTable](https://sem-time-table.herokuapp.com/)**
+- 🔭 I’m currently working on **[BlogWebsite](https://github.com/subhani-syed/BlogWebsite)**
+
+- :space_invader: Recently Finished project **[TimeTable](https://sem-time-table.herokuapp.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
