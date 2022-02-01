@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[BitPocket](https://github.com/subhani-syed/BitPocket)**
 
-- :space_invader: Recently Finished project **[BlogWebsite](https://github.com/subhani-syed/BlogWebsite)**
+- :space_invader: Recently Finished project **[Hacknado](https://github.com/subhani-syed/hacknado)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
