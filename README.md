@@ -66,7 +66,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/subhani-syed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SyedMahaboobS13"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/subhan1syed"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
