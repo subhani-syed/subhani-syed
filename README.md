@@ -67,6 +67,7 @@
 
 <a href = "https://www.linkedin.com/in/subhani-syed/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/subhan1syed" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://linktr.ee/Subhani_syed" target="_blank"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
 </p>
 
