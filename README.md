@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subhani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Subhani</h1>
 <h3 align="center">I'm an undergrad Student from India who likes to code.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[BitPocket](https://github.com/subhani-syed/BitPocket)**
+- 🔭 I’m currently working on **[SecretMessages](https://github.com/subhani-syed/Secret-Messages)**
 
 - :space_invader: Recently Finished project **[Hacknado](https://github.com/subhani-syed/hacknado)**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **subhani6352@gmail.com**
 
-- ⚡ Fun fact **I always think of building a Startup**
+- ⚡ Fun fact **Bears. Beets. Battlestar Galactica.**
 
 ## 🚀 Languages and Tools:
 
@@ -34,6 +34,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.figma.com"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a>
+    <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/ios/50/undefined/django.png"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
