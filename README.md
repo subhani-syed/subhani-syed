@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[SecretMessages](https://github.com/subhani-syed/Secret-Messages)**
+- 🔭 I’m currently working on **[Dwitter](https://github.com/subhani-syed/Dwitter)**
 
 - :space_invader: Recently Finished project **[Hacknado](https://github.com/subhani-syed/hacknado)**
 
