@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Dwitter](https://github.com/subhani-syed/Dwitter)**
 
-- :space_invader: Recently Finished project **[Hacknado](https://github.com/subhani-syed/hacknado)**
+- :space_invader: Recently Finished project **[Secret-Messages](https://github.com/subhani-syed/Secret-Messages)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
