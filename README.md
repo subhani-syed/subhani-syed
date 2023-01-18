@@ -46,7 +46,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhani-syed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -61,7 +61,7 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subhani-syed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 ## Connect with me:
 <p align="left">
