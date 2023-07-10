@@ -26,6 +26,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a href="https://expressjs.com/"><img width="48" height="48" src="https://img.icons8.com/ios/48/express-js.png" alt="express-js"/></a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
@@ -35,9 +36,11 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.figma.com"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a>
     <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/ios/50/undefined/django.png"/></a>
+    <a href="https://flask.palletsprojects.com/en/2.3.x/"><img width="48" height="48" src="https://img.icons8.com/ios/48/flask.png" alt="flask"/></a>
     <a href="https://react.dev/"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react"/></a>
     <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
-    <a href=""><img width="58" height="48" src="https://parceljs.org/avatar.b1be591d.avif"/></a>
+    <a href="https://parceljs.org/ "><img width="58" height="48" src="https://parceljs.org/avatar.b1be591d.avif"/></a>
+    <a href="https://www.docker.com/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -73,7 +76,7 @@
 <a href = "https://www.linkedin.com/in/subhani-syed/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/subhan1syed" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://linktr.ee/Subhani_syed" target="_blank"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
-
+<a href = "https://subhani-syed.hashnode.dev/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
 </p>
 
 ## ❤ Views and Followers
