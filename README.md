@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Subhani</h1>
 <h3 align="center">I'm an undergrad Student from India who likes to code.</h3>
@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dwitter](https://github.com/subhani-syed/Dwitter)**
+- 🔭 I’m currently working on **[Wormhole](https://github.com/subhani-syed/Wormhole)**
 
-- :space_invader: Recently Finished project **[Secret-Messages](https://github.com/subhani-syed/Secret-Messages)**
+- :space_invader: Recently Finished project **[Keep AI](https://github.com/subhani-syed/KeepAI)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -35,6 +35,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.figma.com"><img src="https://img.icons8.com/color/48/000000/figma--v2.png"/></a>
     <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/ios/50/undefined/django.png"/></a>
+    <a href="https://react.dev/"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react"/></a>
+    <a href="https://tailwindcss.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/></a>
+    <a href=""><img width="58" height="48" src="https://parceljs.org/avatar.b1be591d.avif"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -46,7 +49,7 @@
     </a>
 </p>
 
-<!-- ## 📊 My Github Stats
+<!--## 📊 My Github Stats-->
 
   <br/>
     <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subhani-syed&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -58,10 +61,11 @@
 <br/>
 <br/>
 
+<!--  
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=subhani-syed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
-<br/> -->
+<br/>
+-->
 
 ## Connect with me:
 <p align="left">
